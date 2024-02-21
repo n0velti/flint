@@ -1,0 +1,14 @@
+FlintOS
+===========
+
+Getting started
+---------------
+
+To initialize your local repository using the FlintOS trees, use a command like this:
+```
+repo init -u https://github.com/n0velti/flint.git -b flint-1.0
+```
+Then to sync up:
+```
+repo sync
+```
